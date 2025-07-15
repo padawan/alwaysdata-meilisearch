@@ -3,8 +3,6 @@ Alwaysdata Marketplace installation script for [self-hosted Meilisearch](https:/
 
 You will need an alwaysdata account to use it. If you don't have one, please do me a favor and use [this referal link](https://www.alwaysdata.com/en/register/?from=246ec3b6) to register.
 
-Please note that, at this time, the size of the Meilisearch binary alone does not allow for its installation on a free plan.
-
 ## Installation
 
 1. Go to your Sites admin page at https://admin.alwaysdata.com/site/
