@@ -26,7 +26,7 @@ Go to the site and check that it displays the Meilisearch Mini Dashboard.
 
 ## Further configuration
 
-Meilisearch is lauched using the following command: `./meilisearch --config-file-path="./config.toml"` and can be further configured by editing the `config.toml` file. Check the [Meilisearch self-hosted configuration file](https://www.meilisearch.com/docs/learn/self_hosted/configure_meilisearch_at_launch#configuration-file) documentation for all the available options.
+Meilisearch is launched using the following command: `./meilisearch --config-file-path="./config.toml"` and can be further configured by editing the `config.toml` file. Check the [Meilisearch self-hosted configuration file](https://www.meilisearch.com/docs/learn/self_hosted/configure_meilisearch_at_launch#configuration-file) documentation for all the available options.
 
 N.B.: do NOT change the `http_addr` line (the IP and PORT are preconfigured with the correct values for your site).
 
